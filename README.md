@@ -2,7 +2,7 @@
 Web app created with React JS that uses axios to retrieve the data from Marvel Comics API in order to display the character and their details in a beautiful and responsive UI. Also there is a added feature where we can specifically search for characters by their name.
 
 # Live Version
-Site is live at https://marvel-characters-catalogue-ss.netlify.app/
+Site is live at https://strong-lolly-acad0a.netlify.app/
 
 # Technologies Used
 * React
